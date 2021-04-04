@@ -1,0 +1,10 @@
+D:\WorkSpace\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+D:\WorkSpace\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\WorkSpace\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+D:\WorkSpace\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\WorkSpace\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\WorkSpace\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+D:\WorkSpace\ReflectionDemo\obj\Debug\ReflectionDemo.pdb
+D:\WorkSpace\ReflectionDemo\bin\Debug\TestCalc.dll
+D:\WorkSpace\ReflectionDemo\bin\Debug\TestCalc.pdb
+D:\WorkSpace\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CopyComplete
